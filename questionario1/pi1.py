@@ -1,0 +1,11 @@
+inteiro = int(input())
+
+print(inteiro, 'X 1 =', inteiro * 1)
+print(inteiro, 'X 2 =', inteiro * 2)
+print(inteiro, 'X 3 =', inteiro * 3)
+print(inteiro, 'X 4 =', inteiro * 4)
+print(inteiro, 'X 5 =', inteiro * 5)
+print(inteiro, 'X 6 =', inteiro * 6)
+print(inteiro, 'X 7 =', inteiro * 7)
+print(inteiro, 'X 8 =', inteiro * 8)
+print(inteiro, 'X 9 =', inteiro * 9)
